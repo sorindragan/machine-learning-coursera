@@ -1,7 +1,6 @@
 # Machine Learning Class on Coursera
 [![Stanford|Online](ml-stanford.png)](https://www.coursera.org/learn/machine-learning)
 #
-#
 ### Assignmentrs Contents:
 - ##### Week 1 
     No Programming Assignment 
