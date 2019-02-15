@@ -11,7 +11,7 @@
 - ##### Week 4
     Programming Assignment 3 : Multi-class classification and Neural Networks
 - ##### Week 5
-    Programming Assignment 4 : Neural Network Learining
+    Programming Assignment 4 : Neural Network Learning
 - ##### Week 6
     Programming Assignment 5 : Regularized Linear Regression and Bias/Variance
 - ##### Week 7
